@@ -1,0 +1,16 @@
+[
+  {
+    "name": "majeed",
+    "age": "21",
+    "bloodGroup": "AB+",
+    "district": "palakkad",
+    "phone": "8547663633"
+  },
+  {
+    "name": "kabdan",
+    "age": "56",
+    "bloodGroup": "AB-",
+    "district": "malappuram",
+    "phone": "8544564545"
+  }
+]

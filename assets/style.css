@@ -1,0 +1,20 @@
+body{
+ background-color:rgb(180, 180, 180);
+ margin: 0;
+/* }
+.don-reg-img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+} */
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+footer{
+    
+}
